@@ -73,6 +73,6 @@ Detailed Workflow:
     Tailwind CSS is used to create a flexible, responsive layout that adjusts to different screen sizes.
 
 
-Link to preview: 
+Link to preview: https://oskushnir.github.io/react-phone-catalog
 
 Link to maket: https://www.figma.com/design/xMK2Dy0mfBbJJSNctmOuLW/Phone-catalog-(V2)-Rounded-Style-1?node-id=0-1&node-type=canvas&t=YrkjFCZLQRbBHFxl-0
